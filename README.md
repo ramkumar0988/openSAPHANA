@@ -1,0 +1,2 @@
+# openSAPHANA
+Training Repository
