@@ -2,6 +2,7 @@ ID: openSAPHANA
 _schema-version: '2.1'
 description: Training
 version: 0.0.1
+
 modules:
   - name: db
     type: hdb
